@@ -1,0 +1,5 @@
+The break statement:
+
+The break statement will end the loop and begin executing the first statement that comes AFTER the end of the loop.
+
+The continue statement: The continue statement will force the next iteration to be executed.
